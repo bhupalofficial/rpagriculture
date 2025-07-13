@@ -857,11 +857,4 @@ a:hover {
         height: 200px;
     }
 }
-@media (max-width: 768px) {
-    #navigation-bar {
-        justify-content: center; /* This will center the logo */
-    }
-
-    /* ... keep all other existing styles inside this media query ... */
-}
 /* --- CSS Code Ends Here --- */
